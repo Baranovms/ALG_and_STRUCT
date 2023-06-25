@@ -1,11 +1,8 @@
 import java.util.Random;
 
 public class Main {
-    /**
-     * @param args
-     */
     public static void main(String[] args) {
-        BinTree tree = new BinTree<>();
+        BinTree tree = new BinTree();
         Random random = new Random();
 
 

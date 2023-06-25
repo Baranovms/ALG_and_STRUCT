@@ -143,7 +143,7 @@ public class BinTree<T extends Comparable<T>> {
         Color color;
         Node left;
         Node right;
-        Node() {
+        {
             color = Color.Red;
         }
         Node(T _value) {
