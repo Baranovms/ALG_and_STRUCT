@@ -1,5 +1,6 @@
 import java.util.Random;
 
+
 public class task1 {
     public static void main(String[] args) {
         Tree tree = new Tree();
